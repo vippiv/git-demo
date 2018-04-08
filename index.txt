@@ -1,4 +1,4 @@
 this is git demo
 change this demo again
 
-this is come from g1 folder
+this is g1 folder
