@@ -6,3 +6,5 @@ this is come from g1 folder
 删除了一个文件夹
 
 又增加了一个文件
+
+测试冲突
