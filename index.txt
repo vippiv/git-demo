@@ -7,4 +7,5 @@ this is come from g1 folder
 
 又增加了一个文件
 
-第二个同时测试冲突
+测试冲突
+
