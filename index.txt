@@ -2,3 +2,5 @@ this is git demo
 change this demo again
 
 this is come from g1 folder
+
+删除了一个文件夹
